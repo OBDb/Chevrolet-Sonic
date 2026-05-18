@@ -3,3 +3,21 @@ test_cases:
 - expected_values:
     CHEVROLET_EOT_CALC: 44
   response: '7E80462115454'
+- expected_values:
+    CHEVROLET_EOT_CALC: 45
+  response: '7E80462115455'
+- expected_values:
+    CHEVROLET_EOT_CALC: 50
+  response: 7E8046211545A
+- expected_values:
+    CHEVROLET_EOT_CALC: 53
+  response: 7E8046211545D
+- expected_values:
+    CHEVROLET_EOT_CALC: 57
+  response: '7E80462115461'
+- expected_values:
+    CHEVROLET_EOT_CALC: 62
+  response: '7E80462115466'
+- expected_values:
+    CHEVROLET_EOT_CALC: 65
+  response: '7E80462115469'
