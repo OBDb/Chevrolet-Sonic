@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221154
+test_cases:
+- expected_values:
+    SONIC_EOT_CALC: 101
+  response: '7E8 04 62 11 54 8D '
+- expected_values:
+    SONIC_EOT_CALC: 79
+  response: '7E80462115477'
+- expected_values:
+    SONIC_EOT_CALC: 103
+  response: 7E8046211548F

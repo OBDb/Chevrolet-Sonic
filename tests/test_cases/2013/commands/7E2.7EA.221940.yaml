@@ -1,0 +1,11 @@
+command_id: 7E2.7EA.221940
+test_cases:
+- expected_values:
+    SONIC_ATF_T: 72
+  response: '7EA 04 62 19 40 70 '
+- expected_values:
+    SONIC_ATF_T: 46
+  response: 7EA0462194056
+- expected_values:
+    SONIC_ATF_T: 74
+  response: 7EA0462194072
