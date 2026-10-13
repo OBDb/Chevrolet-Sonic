@@ -1,0 +1,5 @@
+command_id: 7E2.7EA.222862
+test_cases:
+- expected_values:
+    CHEVROLET_TRANS_P: 6400
+  response: 7EA056228621900AAAA
