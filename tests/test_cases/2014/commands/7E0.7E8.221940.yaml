@@ -1,5 +1,10 @@
 command_id: 7E0.7E8.221940
 test_cases:
 - expected_values:
+    CHEVROLET_ATF_T_VAR_1: 87
+  response: |-
+    7E8046219407FAAAAAA
+    7E8046219407FAAAAAA
+- expected_values:
     CHEVROLET_ATF_T_VAR_1: 99
   response: 7E8046219408BAAAAAA
