@@ -1,0 +1,5 @@
+command_id: 7E2.7EA.222434
+test_cases:
+- expected_values:
+    CHEVROLET_AXLE_TQ_DRIVER_REQ_V3: 0
+  response: 7EA056224345806AAAA
