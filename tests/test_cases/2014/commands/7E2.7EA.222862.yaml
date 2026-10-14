@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CHEVROLET_TRANS_P: 6400
   response: 7EA056228621900AAAA
+- expected_values:
+    CHEVROLET_TRANS_P: 6695
+  response: 7EA056228621A27AAAA

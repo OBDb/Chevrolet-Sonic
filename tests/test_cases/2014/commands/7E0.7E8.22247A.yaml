@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22247A
+test_cases:
+- expected_values:
+    CHEVROLET_HOOD_SWITCH_V2: 0
+  response: 7E80462247A00AAAAAA
