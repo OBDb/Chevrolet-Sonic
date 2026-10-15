@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CHEVROLET_HEATED_OXYGEN_SENS: 172
   response: 7E804621145ACAAAAAA
+- expected_values:
+    CHEVROLET_HEATED_OXYGEN_SENS: 192
+  response: 7E804621145C0AAAAAA
