@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.222810
 test_cases:
 - expected_values:
+    CHEVROLET_THROTTLE_POS_CALC_V2: 0
+  response: 7E80462281000AAAAAA
+- expected_values:
     CHEVROLET_THROTTLE_POS_CALC_V2: 13.33333
   response: 7E80462281022AAAAAA
