@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.221124
 test_cases:
 - expected_values:
+    CHEVROLET_BRAKE_PEDAL_POS_V2: 81
+  response: 7E80462112451AAAAAA
+- expected_values:
     CHEVROLET_BRAKE_PEDAL_POS_V2: 253
   response: 7E804621124FDAAAAAA
