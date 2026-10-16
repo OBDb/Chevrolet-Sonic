@@ -1,6 +1,9 @@
 command_id: 7E2.7EA.2219A1
 test_cases:
 - expected_values:
+    CHEVROLET_GEAR_RAT_V2: 255
+  response: 7EA046219A1FFAAAAAA
+- expected_values:
     CHEVROLET_GEAR_RAT_V2: 0
   response: |-
     NO DATA
