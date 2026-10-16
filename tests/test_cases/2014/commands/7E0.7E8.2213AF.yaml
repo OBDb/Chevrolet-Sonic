@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     CHEVROLET_COOLING_FAN_MOTOR_CMD: 0
   response: 7E8046213AF00AAAAAA
+- expected_values:
+    CHEVROLET_COOLING_FAN_MOTOR_CMD: 0
+  response: |-
+    NO DATA
+    > 7E0.7E8.2213AF
+    7E8046213AF00AAAAAA

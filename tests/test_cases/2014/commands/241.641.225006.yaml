@@ -1,6 +1,15 @@
 command_id: 241.641.225006
 test_cases:
 - expected_values:
+    CHEVROLET_TP_FR: 220
+  response: 641056250060DC03B5B
+- expected_values:
+    CHEVROLET_TP_FR: 233.75
+  response: 641056250060E9C3BFB
+- expected_values:
+    CHEVROLET_TP_FR: 233.75
+  response: 641056250060E9C46D6
+- expected_values:
     CHEVROLET_TP_FR: 242
   response: 641056250060F203B5B
 - expected_values:

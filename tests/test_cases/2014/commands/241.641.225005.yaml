@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CHEVROLET_TP_FL: 231
   response: 641056250050E7046D6
+- expected_values:
+    CHEVROLET_TP_FL: 236.5
+  response: 641056250050EC83B5B

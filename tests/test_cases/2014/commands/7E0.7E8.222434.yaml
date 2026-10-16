@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.222434
 test_cases:
 - expected_values:
+    CHEVROLET_AXLE_TQ_DRIVER_REQ_V2: -136
+  response: 7E805622434577EAAAA
+- expected_values:
     CHEVROLET_AXLE_TQ_DRIVER_REQ_V2: -79
   response: 7E80562243457B7AAAA
 - expected_values:
