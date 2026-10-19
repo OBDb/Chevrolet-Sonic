@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CHEVROLET_ETHANOL_CONTENT_FUEL: 9.41176
   response: 7E80462005218AAAAAA
+- expected_values:
+    CHEVROLET_ETHANOL_CONTENT_FUEL: 9.80392
+  response: 7E80462005219AAAAAA

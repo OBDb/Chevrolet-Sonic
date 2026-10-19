@@ -10,6 +10,9 @@ test_cases:
     CHEVROLET_AIR_TEMP_AMBIENT_2: 21
   response: 7E80462232C3DAAAAAA
 - expected_values:
+    CHEVROLET_AIR_TEMP_AMBIENT_2: 37
+  response: 7E80462232C4DAAAAAA
+- expected_values:
     CHEVROLET_AIR_TEMP_AMBIENT_2: 39
   response: 7E80462232C4FAAAAAA
 - expected_values:

@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     CHEVROLET_AXLE_TQ_DRIVER_REQ_V2: 53
   response: 7E805622434583BAAAA
+- expected_values:
+    CHEVROLET_AXLE_TQ_DRIVER_REQ_V2: 318
+  response: 7E8056224345944AAAA
