@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CHEVROLET_TC_SLIP_VSS_7E2: 67
   response: 7EA056219910218AAAA
+- expected_values:
+    CHEVROLET_TC_SLIP_VSS_7E2: 674.375
+  response: 7EA056219911513AAAA

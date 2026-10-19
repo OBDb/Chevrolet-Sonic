@@ -4,5 +4,8 @@ test_cases:
     CHEVROLET_CURRENT_GEAR_VAR_3: 0
   response: 7E80462320100AAAAAA
 - expected_values:
+    CHEVROLET_CURRENT_GEAR_VAR_3: 3
+  response: 7E80462320103AAAAAA
+- expected_values:
     CHEVROLET_CURRENT_GEAR_VAR_3: 4
   response: 7E80462320104AAAAAA
