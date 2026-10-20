@@ -7,6 +7,9 @@ test_cases:
     CHEVROLET_EOT_CALC: 95
   response: 7E80462115487AAAAAA
 - expected_values:
+    CHEVROLET_EOT_CALC: 102
+  response: 7E8046211548EAAAAAA
+- expected_values:
     CHEVROLET_EOT_CALC: 103
   response: 7E8046211548FAAAAAA
 - expected_values:
