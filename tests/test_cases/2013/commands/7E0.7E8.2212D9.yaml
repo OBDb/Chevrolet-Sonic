@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2212D9
 test_cases:
 - expected_values:
-    SONIC_TOTAL_KNOCK_RETARD: 0
+    CHEVROLET_TOTAL_KNOCK_RETARD: 0
   response: '7E8 04 62 12 D9 00 '
 - expected_values:
-    SONIC_TOTAL_KNOCK_RETARD: 0
+    CHEVROLET_TOTAL_KNOCK_RETARD: 0
   response: 7E8046212D900
 - expected_values:
-    SONIC_TOTAL_KNOCK_RETARD: 1.8
+    CHEVROLET_TOTAL_KNOCK_RETARD: 1.8
   response: 7E8046212D904

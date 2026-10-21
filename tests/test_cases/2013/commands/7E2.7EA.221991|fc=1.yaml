@@ -1,11 +1,11 @@
 command_id: 7E2.7EA.221991|fc=1
 test_cases:
 - expected_values:
-    SONIC_TC_SLIP_VSS: 0
+    CHEVROLET_TC_SLIP_VSS_7E2: 0
   response: 7EA056219910000
 - expected_values:
-    SONIC_TC_SLIP_VSS: 31
+    CHEVROLET_TC_SLIP_VSS_7E2: 31
   response: 7EA0562199100F8
 - expected_values:
-    SONIC_TC_SLIP_VSS: -7.5
+    CHEVROLET_TC_SLIP_VSS_7E2: -7.5
   response: 7EA05621991FFC4

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22207E
+test_cases:
+- expected_values:
+    CHEVROLET_IGN_POWER_MODE_V2: 1
+  response: 7E80462207E01AAAAAA
+- expected_values:
+    CHEVROLET_IGN_POWER_MODE_V2: 2
+  response: 7E80462207E02AAAAAA

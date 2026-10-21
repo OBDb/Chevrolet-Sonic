@@ -1,8 +1,10 @@
 command_id: 7E0.7E8.22000D
 test_cases:
 - expected_values:
-    SONIC_VSS: 0
+    CHEVROLET_2500_VSS: 0
+    CHEVROLET_VSS: 0
   response: 7E80462000D00
 - expected_values:
-    SONIC_VSS: 111
+    CHEVROLET_2500_VSS: 111
+    CHEVROLET_VSS: 111
   response: 7E80462000D6F

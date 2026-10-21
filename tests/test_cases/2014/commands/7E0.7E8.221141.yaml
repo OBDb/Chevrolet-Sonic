@@ -1,0 +1,19 @@
+command_id: 7E0.7E8.221141
+test_cases:
+- expected_values:
+    CHEVROLET_IGN_1_V: 12.8
+  response: 7E80462114180AAAAAA
+- expected_values:
+    CHEVROLET_IGN_1_V: 13.3
+  response: 7E80462114185AAAAAA
+- expected_values:
+    CHEVROLET_IGN_1_V: 13.4
+  response: 7E80462114186AAAAAA
+- expected_values:
+    CHEVROLET_IGN_1_V: 0
+  response: |-
+    NO DATA
+    > 7E7.7EF.22423A
+    NO DATA
+    > 7E0.7E8.221141
+    7E80462114100AAAAAA
