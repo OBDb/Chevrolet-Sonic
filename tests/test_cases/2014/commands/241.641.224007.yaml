@@ -1,5 +1,5 @@
 command_id: 241.641.224007
 test_cases:
 - expected_values:
-    CHEVROLET_TID_RR: 1971603158
+    SONIC_TID_RR: 1971603158
   response: 64107624007758446D6

@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.220010|fc=1
 test_cases:
 - expected_values:
-    CHEVROLET_MAF: 0
-    CHEVROLET_MAF_7E0: 0
+    SONIC_MAF: 0
   response: '7E8056200100000'
 - expected_values:
-    CHEVROLET_MAF: 4.8
-    CHEVROLET_MAF_7E0: 4.8
+    SONIC_MAF: 4.8
   response: 7E80562001001E0
 - expected_values:
-    CHEVROLET_MAF: 7.75
-    CHEVROLET_MAF_7E0: 7.75
+    SONIC_MAF: 7.75
   response: '7E8056200100307'

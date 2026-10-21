@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211ED
+test_cases:
+- expected_values:
+    SONIC_MISFIRES_C8_CUR: 0
+  response: '7E8 04 62 11 ED 00 '
