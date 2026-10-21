@@ -1,17 +1,17 @@
 command_id: 7E2.7EA.222862
 test_cases:
 - expected_values:
-    CHEVROLET_TRANS_P: 4400
+    SONIC_TRANS_P: 4400
   response: 7EA056228621130AAAA
 - expected_values:
-    CHEVROLET_TRANS_P: 4450
+    SONIC_TRANS_P: 4450
   response: 7EA056228621162AAAA
 - expected_values:
-    CHEVROLET_TRANS_P: 4591
+    SONIC_TRANS_P: 4591
   response: 7EA0562286211EFAAAA
 - expected_values:
-    CHEVROLET_TRANS_P: 6400
+    SONIC_TRANS_P: 6400
   response: 7EA056228621900AAAA
 - expected_values:
-    CHEVROLET_TRANS_P: 6695
+    SONIC_TRANS_P: 6695
   response: 7EA056228621A27AAAA

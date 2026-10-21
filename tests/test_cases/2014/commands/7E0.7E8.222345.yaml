@@ -1,6 +1,15 @@
 command_id: 7E0.7E8.222345
 test_cases:
 - expected_values:
-    CHEVROLET_EOP: 0
-    CHEVROLET_EOP_ACT: 0
+    SONIC_EOP: 0
   response: 7E80462234500AAAAAA
+- expected_values:
+    SONIC_EOP: 0
+  response: |-
+    CAN ERROR
+    > 7E4.7EC.22433C
+    NO DATA
+    > 7E4.7EC.221942
+    NO DATA
+    > 7E0.7E8.222345
+    7E80462234500AAAAAA

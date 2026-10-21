@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.22905C
 test_cases:
 - expected_values:
-    CHEVROLET_HOOD_POS_V2: 3
+    SONIC_HOOD_POS: 3
   response: 7E80462905C03AAAAAA

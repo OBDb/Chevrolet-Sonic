@@ -1,26 +1,26 @@
 command_id: 241.641.225006
 test_cases:
 - expected_values:
-    CHEVROLET_TP_FR: 214.5
+    SONIC_TP_FR_241: 214.5
   response: 641056250060D683B5B
 - expected_values:
-    CHEVROLET_TP_FR: 217.25
+    SONIC_TP_FR_241: 217.25
   response: 641056250060D9440A4
 - expected_values:
-    CHEVROLET_TP_FR: 220
+    SONIC_TP_FR_241: 220
   response: 641056250060DC03B5B
 - expected_values:
-    CHEVROLET_TP_FR: 220
+    SONIC_TP_FR_241: 220
   response: 641056250060DC03BFB
 - expected_values:
-    CHEVROLET_TP_FR: 233.75
+    SONIC_TP_FR_241: 233.75
   response: 641056250060E9C3BFB
 - expected_values:
-    CHEVROLET_TP_FR: 233.75
+    SONIC_TP_FR_241: 233.75
   response: 641056250060E9C46D6
 - expected_values:
-    CHEVROLET_TP_FR: 242
+    SONIC_TP_FR_241: 242
   response: 641056250060F203B5B
 - expected_values:
-    CHEVROLET_TP_FR: 242
+    SONIC_TP_FR_241: 242
   response: 641056250060F2040A4
